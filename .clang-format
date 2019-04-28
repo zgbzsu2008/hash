@@ -1,0 +1,7 @@
+# Visual Studio 生成的 .clang 格式文件
+
+BasedOnStyle:	Google
+ColumnLimit:	100
+BreakBeforeBraces:	Allman
+PointerAlignment:	Right
+AlwaysBreakTemplateDeclarations:	false
